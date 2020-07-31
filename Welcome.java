@@ -3,5 +3,6 @@ public class Welcome{
 		System.out.println("Welcome to Java");
 		System.out.println("Another Line");
 		System.out.println("Another Line is inserted here");
+		System.out.println("Automatic Build Git.....");
 	}
 }
